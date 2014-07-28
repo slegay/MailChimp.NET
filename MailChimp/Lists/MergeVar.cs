@@ -88,6 +88,5 @@ namespace MailChimp.Lists
             get;
             set;
         }
-
     }
 }
